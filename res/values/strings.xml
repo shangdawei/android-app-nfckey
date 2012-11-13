@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">GemKey</string>
+    <string name="nfc_scan_tag">Please scan a tag</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
